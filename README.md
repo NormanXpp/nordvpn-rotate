@@ -18,7 +18,7 @@
 
 *Увага: якщо треба детальніше налаштувати список країн - у файлі **countries.txt** символ '#' означає що країна не використовуватиметься.*
 
-![IMG_5164](https://user-images.githubusercontent.com/17875017/156822065-a67c57d6-08a2-4caf-bc6b-723b5ff47880.JPG)
+# nordvpn-rotate (ENG)
 
 If you are using [NordVPN](https://nordvpn.com/ru/) - this small script allows to automatically refresh selected VPN servers.
 
